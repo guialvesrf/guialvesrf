@@ -82,8 +82,8 @@ Assistente de voz para escritório com o Raspberry Pi como orquestrador: wake wo
 ## Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guialves50&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Estatísticas do GitHub"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialves50&theme=dracula&hide_border=true&layout=compact" alt="Linguagens mais usadas"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guialvesrf&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Estatísticas do GitHub"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialvesrf&theme=dracula&hide_border=true&layout=compact" alt="Linguagens mais usadas"/>
 </p>
 
 ---
